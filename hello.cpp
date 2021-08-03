@@ -4,6 +4,6 @@ using namespace std;
 int main()
 {
 	cout << "Hello, jk!\n";
-	cout << "Hello, mo!\n";
+	cout << "Hello, mono!\n";
 	return 0;
 }
